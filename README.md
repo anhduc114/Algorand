@@ -5,7 +5,7 @@ Algokit を使用して Algorand でスマートコントラクトを作る。
 
 # Algorandとは?
 
-- ブロックチェーンプラットフォームと暗号通貨 (there are many other blockchain platforms, each with its own features, use cases, and characteristics)
+- ブロックチェーンプラットフォームと暗号通貨
 
 - さまざまなアプリケーションを作成するための分散インフラストラクチャを提供します
 
@@ -55,9 +55,7 @@ Algokit を使用して Algorand でスマートコントラクトを作る。
 
 - `algokit init`
 
-- 完了すると、VS Code が自動的に開き、初期化されたプロジェクトが表示されます。 The app used in the demo contain one smart contract (built using Beaker - smart contract development framework)
-
-- (Explain helloworld.py and demo.py)
+- 完了すると、VS Code が自動的に開き、初期化されたプロジェクトが表示されます。 
 
 - [demo.py] を右クリックし、[Run Python File in Terminal] を選択して、HelloworldApp スマート コントラクトをデプロイします。
 
