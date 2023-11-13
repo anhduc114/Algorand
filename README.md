@@ -9,27 +9,14 @@ Algokit を使用して Algorand でスマートコントラクトを作る。
 
 - さまざまなアプリケーションを作成するための分散インフラストラクチャを提供します
 
-- アプリケーションには金融システムや分散型アプリケーションが含まれます (dApps)
+- アプリケーションには金融システムや分散型アプリケーションが含まれます (dApps)  
 
-  
-
-# What is a dApp?
-
-- Stands for decentralized application
-
-- Key principle of dApp: open and accessible to anyone who wants to create and use them.
-
-  
 
 # スマートコントラクトとは?
 
 - ブロックチェーン上に格納され、所定の条件が満たされたときに実行されるプログラム
 
 - 契約の実行を自動化するために使用されるため、すべての参加者は仲介業者の関与や時間のロスなく、即座に結果を確認できます。
-
-Ex:
-
-- Vending machine: put in some money, press a button, and it gives you coffee. A smart contract is similar, but it's digital program and lives on a computer.
  
 
 # Algokitとは?
