@@ -13,12 +13,15 @@ Building a smartcontract on Algorand using Algokit
 - A program stored on a blockchain that is executed when predetermined conditions are met
 - Used to automate the execution of contracts, so all participants can see the results instantly, without involvement of intermediaries or loss of time
 Ex: 
-- Vending machine: put in some money, press a button, and it gives you coffee. A smart contract is similar, but it's digital program and lives on a computer.
+- The smart contract is like a computer program that follows these rules automatically. It's "smart" because it doesn't need a person to make it work; it does everything by itself.
+
+For example, in a simple smart contract for a digital game, you might say, "If I give 10 tokens, the game will give me a gun." When you give the 10 tokens, the smart contract automatically gives you the sword. It's like magic!
+
 
 
 # What is Algokit?
 - A smartcontract development tool for Algorand's blockchain.
-- Using Algokit to create dApps and interact with dApps on Algorand
+- Using Algokit to create smartcontract and interact with smartcontract on Algorand
 - Open-source, support Window + MacOS
 
 # How to create a smartcontract using Algokit?
