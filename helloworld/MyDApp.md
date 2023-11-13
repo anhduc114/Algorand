@@ -1,15 +1,21 @@
 Building a smartcontract on Algorand using Algokit
 
 # What is Algorand?
-- Blockchain platform and cryptocurrency
+- Blockchain platform and cryptocurrency (there are many other blockchain platforms, each with its own features, use cases, and characteristics)
 - Provides decentralized infrastructure for building various applications
 - Applications include financial system and decentralized applications (dApps)
 
 # What is a dApp?
 - Stands for decentralized application
 - Key principle of dApp: open and accessible to anyone who wants to create and use them.
+
 # What is a smartcontract?
-- 
+- A program stored on a blockchain that is executed when predetermined conditions are met
+- Used to automate the execution of contracts, so all participants can see the results instantly, without involvement of intermediaries or loss of time
+Ex: 
+- Vending machine: put in some money, press a button, and it gives you coffee. A smart contract is similar, but it's digital program and lives on a computer.
+
+
 # What is Algokit?
 - A smartcontract development tool for Algorand's blockchain.
 - Using Algokit to create dApps and interact with dApps on Algorand
@@ -41,3 +47,6 @@ Building a smartcontract on Algorand using Algokit
 - A web-based user interface that lets you visualise accounts, transactions, apps on Algorand network
 - Provides ability to deploy and call smart contracts.
 - Launch:  algokit explore
+
+
+(potential bug fix: No module 'pkg_resources' -> pip install --upgrade setuptools )
