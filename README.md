@@ -47,7 +47,9 @@ Algokit を使用して Algorand でスマートコントラクトを作る。
 
 ## LocalNetをスタート
 
-- `algokit localnet start`
+- AlgoKit は、Algorand ブロックチェーンのローカル バージョン(LocalNet)の使用をサポートします
+
+- LocalNet インスタンスを開始する: `algokit localnet start`
 
   
 
